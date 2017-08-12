@@ -1,12 +1,4 @@
-## Assignment 0
+## Fetching Data From Twitter
 
-**50 points**  
-
-
-1. Get started with git and python by following the instructions at [Setup.md](Setup.md).
-  
-2. Complete the data collection assignment, following the instructions in [a0.py](a0.py).
-
-3. Complete the short answer questions in [ShortAnswer.txt](ShortAnswer.txt).
-
-3. Push your all your code and supporting files (e.g., .png) to your **private** GitHub repo in the folder `a0/`.
+This project fetches data from the twitter using twitter API about the four famous personalities and then find their followers and tries to find the common follower among the two names.
+Along with finding the common follower, it draws a network diagram for the same.
